@@ -1,0 +1,21 @@
+{
+  "name": "interface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.22.1",
+    "node-schedule": "^1.3.0",
+    "sense-hat": "^0.1.0",
+    "sense-hat-led": "^1.0.1",
+    "sense-joystick": "0.0.3",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
