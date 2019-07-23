@@ -1,0 +1,154 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:awt="http://xmlns.com/awt/0.1/">
+    <awt:AWTDocument>
+        <awt:T2018-6-11 rdf:resource="#testID1"/>
+        <awt:T2018-6-12 rdf:resource="#testID2"/>
+        <awt:T2018-6-13 rdf:resource="#testID3"/>
+        <awt:T2018-6-13 rdf:resource="#testID4"/>
+        <awt:T2018-6-13 rdf:resource="#testID5"/>
+        <awt:T2018-6-13 rdf:resource="#testID6"/>
+        <awt:D2018-07-12T22:39:08.058Z rdf:resource="#testID7"/>
+        <awt:D2018-07-13T08.0 rdf:resource="#testID8"/>
+        <awt:D2018-07-13T08.03 rdf:resource="#testID9"/>
+        <awt:D2018-07-13T08.04:43.299Z rdf:resource="#testID10"/>
+        <awt:D2018-07-13T15.14:59.319Z rdf:resource="#testID11"/>
+        <awt:D2018-07-13T15.15:41 rdf:resource="#testID12"/>
+        <awt:D2018-07-13T15.17 rdf:resource="#testID13"/>
+        <awt:D2018-07-13T15.18 rdf:resource="#testID14"/>
+        <awt:D2018-07-13T15.19 rdf:resource="#testID15"/>
+    </awt:AWTDocument>
+    <awt:transasction rdf:ID="testID1">
+        <awt:id1>
+            <awt:device>
+                <awt:title>title1</awt:title>
+                <awt:value>1</awt:value>
+                <awt:description>description1</awt:description>
+            </awt:device>
+        </awt:id1>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID2">
+        <awt:id2>
+            <awt:device>
+                <awt:title>title2</awt:title>
+                <awt:value>2</awt:value>
+                <awt:description>description2</awt:description>
+            </awt:device>
+        </awt:id2>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID3">
+        <awt:id3>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>39.000001111</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id3>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID4">
+        <awt:id4>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>3</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id4>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID5">
+        <awt:id5>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>3</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id5>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID6">
+        <awt:id6>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>3</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id6>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID7">
+        <awt:id7>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>3</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id7>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID8">
+        <awt:id8>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>3</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id8>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID9">
+        <awt:id9>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>3</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id9>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID10">
+        <awt:id10>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>30</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id10>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID11">
+        <awt:id11>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>31</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id11>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID12">
+        <awt:id12>
+            <awt:device>
+                <awt:title>title3</awt:title>
+                <awt:value>32</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id12>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID13">
+        <awt:id13>
+            <awt:device>
+                <awt:title>title33</awt:title>
+                <awt:value>33</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id13>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID14">
+        <awt:id14>
+            <awt:device>
+                <awt:title>titlex</awt:title>
+                <awt:value>3x</awt:value>
+                <awt:description>description3</awt:description>
+            </awt:device>
+        </awt:id14>
+    </awt:transasction>
+    <awt:transasction rdf:ID="testID15">
+        <awt:id13>
+            <awt:device>
+                <awt:title>titlexxxxx</awt:title>
+                <awt:value>3xxxxxx</awt:value>
+                <awt:description>description3xxxxx</awt:description>
+            </awt:device>
+        </awt:id13>
+    </awt:transasction>
+</rdf:RDF>

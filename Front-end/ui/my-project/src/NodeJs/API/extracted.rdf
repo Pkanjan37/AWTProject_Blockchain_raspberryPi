@@ -1,0 +1,114 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:awt="http://xmlns.com/awt/0.1/">
+    <awt:AWTDocument>
+        <awt:D2018-07-16T10.26 rdf:resource="#transactionID1"/>
+        <awt:D2018-07-16T10.31 rdf:resource="#transactionID2"/>
+        <awt:D2018-07-16T10.50 rdf:resource="#transactionID3"/>
+        <awt:D2018-07-16T10.57 rdf:resource="#transactionID4"/>
+        <awt:D2018-07-16T10.58 rdf:resource="#transactionID5"/>
+        <awt:D2018-07-16T12.15 rdf:resource="#transactionID6"/>
+        <awt:D2018-07-16T12.17 rdf:resource="#transactionID7"/>
+        <awt:D2018-07-16T12.21 rdf:resource="#transactionID8"/>
+        <awt:D2018-07-16T12.38 rdf:resource="#transactionID9"/>
+        <awt:D2018-07-16T12.44 rdf:resource="#transactionID10"/>
+        <awt:D2018-07-16T12.47 rdf:resource="#transactionID11"/>
+    </awt:AWTDocument>
+    <awt:transasction rdf:ID="transactionID1">
+        <awt:id7>
+            <awt:device>
+                <awt:title>LED_2</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_2</awt:description>
+            </awt:device>
+        </awt:id7>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID2">
+        <awt:id8>
+            <awt:device>
+                <awt:title>LED_2</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_2</awt:description>
+            </awt:device>
+        </awt:id8>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID3">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Close</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID4">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Close</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID5">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID6">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID7">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID8">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID9">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID10">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+    <awt:transasction rdf:ID="transactionID11">
+        <awt:id0>
+            <awt:device>
+                <awt:title>LED_1</awt:title>
+                <awt:value>Open</awt:value>
+                <awt:description>LED_Des_1</awt:description>
+            </awt:device>
+        </awt:id0>
+    </awt:transasction>
+</rdf:RDF>
